@@ -1,0 +1,11 @@
+C:\Users\Burak Bey\Desktop\Kariyer.netTestProject\Kariyer.netTestProject\bin\Debug\Kariyer.netTestProject.exe.config
+C:\Users\Burak Bey\Desktop\Kariyer.netTestProject\Kariyer.netTestProject\bin\Debug\Kariyer.netTestProject.exe
+C:\Users\Burak Bey\Desktop\Kariyer.netTestProject\Kariyer.netTestProject\bin\Debug\Kariyer.netTestProject.pdb
+C:\Users\Burak Bey\Desktop\Kariyer.netTestProject\Kariyer.netTestProject\bin\Debug\nunit.framework.dll
+C:\Users\Burak Bey\Desktop\Kariyer.netTestProject\Kariyer.netTestProject\bin\Debug\WebDriver.dll
+C:\Users\Burak Bey\Desktop\Kariyer.netTestProject\Kariyer.netTestProject\bin\Debug\nunit.framework.pdb
+C:\Users\Burak Bey\Desktop\Kariyer.netTestProject\Kariyer.netTestProject\bin\Debug\nunit.framework.xml
+C:\Users\Burak Bey\Desktop\Kariyer.netTestProject\Kariyer.netTestProject\bin\Debug\WebDriver.xml
+C:\Users\Burak Bey\Desktop\Kariyer.netTestProject\Kariyer.netTestProject\obj\Debug\Kariyer.netTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Burak Bey\Desktop\Kariyer.netTestProject\Kariyer.netTestProject\obj\Debug\Kariyer.netTestProject.exe
+C:\Users\Burak Bey\Desktop\Kariyer.netTestProject\Kariyer.netTestProject\obj\Debug\Kariyer.netTestProject.pdb
