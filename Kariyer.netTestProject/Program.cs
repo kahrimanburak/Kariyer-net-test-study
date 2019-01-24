@@ -101,12 +101,13 @@ namespace Kariyer.netTestProject
             driver.FindElement(By.XPath("//*[contains(@id, 'select2-results-3')]//*[contains(@class, 'select2-results-dept-0 select2-result select2-result-selectable')]")).Click();
             Thread.Sleep(3000);
 
-            //driver.FindElement(By.Id("btnBasvuruTamamla")).Click();
+            //Başvuruyu tamamla butonuna tıklanır ve sonuç görüntüleme sayfasına geçiş yapılır.
+            driver.FindElement(By.Id("btnBasvuruTamamla")).Click();
             Thread.Sleep(3000);
 
             //Başvuru tamamlandıktan sonra sonuç yazısının görüntülendiği kontrol edilir.
-            //string basvuru_sonuc = driver.FindElement(By.TagName("body")).Text;
-            //Assert.IsTrue(basvuru_sonuc.Contains("Başvurun iletildi, seçilme şansını daha da artırmak ister misin?"));
+            string basvuru_sonuc = driver.FindElement(By.TagName("body")).Text;
+            Assert.IsTrue(basvuru_sonuc.Contains("Başvurun iletildi, seçilme şansını daha da artırmak ister misin?"));
 
         }
 
